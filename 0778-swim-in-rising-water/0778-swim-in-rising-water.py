@@ -8,8 +8,8 @@ class Solution:
                 return True
             seen.add((i,j))
             return dfs(i+1,j,t,seen) or dfs(i,j+1,t,seen) or dfs(i-1,j,t,seen) or dfs(i,j-1,t,seen)
-        left=0
-        right=n**2
+        left=grid[0][0]
+        right=n*n -1
         while left<right:
             mid=(left+right)//2
             seen=set()
