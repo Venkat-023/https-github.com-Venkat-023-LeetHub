@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
