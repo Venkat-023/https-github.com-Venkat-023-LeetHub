@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
