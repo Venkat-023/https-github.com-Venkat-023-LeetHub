@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 ## Minimax
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
+| [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
