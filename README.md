@@ -105,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
