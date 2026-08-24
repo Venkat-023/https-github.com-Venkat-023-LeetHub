@@ -109,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0176-second-highest-salary) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
