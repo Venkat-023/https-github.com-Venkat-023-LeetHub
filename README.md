@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 ## Greedy
 |  |
@@ -117,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0326-power-of-three) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
