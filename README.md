@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0118-pascals-triangle) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
