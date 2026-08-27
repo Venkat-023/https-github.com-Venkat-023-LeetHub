@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0118-pascals-triangle) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
+| [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
+| [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
 ## Binary Tree
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
+| [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
 ## Union-Find
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
+| [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
