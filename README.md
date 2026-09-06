@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0115-distinct-subsequences) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
