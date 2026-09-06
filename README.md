@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3904-smallest-stable-index-ii](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0005-longest-palindromic-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
