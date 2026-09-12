@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
@@ -69,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 ## Minimax
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
