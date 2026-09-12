@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1020-number-of-enclaves) |
 | [1992-find-all-groups-of-farmland](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/1992-find-all-groups-of-farmland) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
 |  |
 | ------- |
