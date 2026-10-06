@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0130-surrounded-regions) |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [0778-swim-in-rising-water](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0778-swim-in-rising-water) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0098-validate-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0508-most-frequent-subtree-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## DP on Trees
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Venkat-023/https-github.com-Venkat-023-LeetHub/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
